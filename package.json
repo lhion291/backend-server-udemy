@@ -10,6 +10,9 @@
   "author": "Cristopher Torres",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose-unique-validator": "^2.0.3"
   }
 }
